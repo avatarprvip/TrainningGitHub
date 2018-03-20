@@ -26,5 +26,10 @@ namespace TrainingGitHub.Controllers
 
             return View();
         }
+
+        public ditmeLoC()
+        {
+
+        }
     }
 }
